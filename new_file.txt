@@ -4,6 +4,10 @@ I added some changes
 
 Adding a new line
 
+<<<<<<< HEAD
 Something new
  hello
 hello
+=======
+Hello
+>>>>>>> e0aab6eafce59e4d12b72829a53dc015d876e3f6
