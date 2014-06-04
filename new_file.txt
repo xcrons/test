@@ -6,3 +6,4 @@ Adding a new line
 
 Something new
  hello
+hello
